@@ -1,0 +1,7 @@
+--- !ruby/object:Hangman
+counting: 1
+dictionary: !ruby/object:File {}
+secret_word: unutilized
+working_word: __________
+letter: save
+file_name: one_more_sample_save

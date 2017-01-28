@@ -1,0 +1,7 @@
+--- !ruby/object:Hangman
+counting: 5
+dictionary: !ruby/object:File {}
+secret_word: centerboard
+working_word: ce__erboard
+letter: save
+file_name: sample_save

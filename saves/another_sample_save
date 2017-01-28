@@ -1,0 +1,7 @@
+--- !ruby/object:Hangman
+counting: 5
+dictionary: !ruby/object:File {}
+secret_word: deflagrator
+working_word: def_a_rat_r
+letter: save
+file_name: another_sample_save
